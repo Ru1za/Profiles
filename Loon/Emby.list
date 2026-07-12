@@ -1,0 +1,10 @@
+# NAME: Emby
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+# Terminus+
+DOMAIN-SUFFIX,zdz.plus
+# SNTP 
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,array2026.cc
+# UHD
+DOMAIN-SUFFIX,uhdnow.com
